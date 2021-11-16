@@ -1,3 +1,3 @@
 #
 
-Project Solution 26
+Project 26
